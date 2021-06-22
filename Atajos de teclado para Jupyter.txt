@@ -1,0 +1,7 @@
+Los comandos de Jupyter notebook son así, recuerden que tienen que estar en modo edición de celda, no en modo de escritura de código:
+X C V son para cortar, copiar y pegar celdas
+A y B son para abrir celdas nuevas vacías arriba y abajo, respectivamente
+CTRL+ENTER es para ejecutar una celda. SHIFT+ENTER es para ejecutarla y saltar a la celda de abajo
+D D (dos veces D) es para borrar una celda
+Z es para deshacer el cambio que hice antes ( como haber borrado una celda por error!)
+Y es para transformar una celda en celda de código y M es para transformarla en una celda de markdown
